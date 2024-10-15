@@ -1,0 +1,62 @@
+# Site settings
+title: "Eleano Barone Portfolio"
+email: "barone01@allegheny.edu"
+baseurl: "/jekyll-portfolio"
+url: ""
+description: "Hello! My name is Eleano Barone, I'm majoring in Software Engineering and Economics at Allegheny College. I am fascinated on how code can shape the future and make everyday tasks easier. This is exactly what I want to do, and I am excited to dive deeper into both fields. Being fluent in Italian and English also helps me see things from different perspectives, and I am always looking forward to learning from and working with others who share my passion. I am confident that this path is where I am meant to be, and I cannot wait to take on challenges along the way!."
+keywords: "your keywords, separated by commas"
+skills: "Software Engineering Student - Trilingual"
+meta_author: Barone, Eleano
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/eleb
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 520 N Main St
+  - line: Meadville, PA 16335
+
+# Credits content
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

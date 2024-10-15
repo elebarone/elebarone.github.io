@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <link href="http://localhost:4000/jekyll-portfolio/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" />
+  <updated>2024-10-14T17:27:59-07:00</updated>
+  <id>http://localhost:4000/jekyll-portfolio/</id>
+
+  
+    <title type="html">Eleano Barone Portfolio</title>
+  
+
+  
+    <subtitle>Hello! My name is Eleano Barone, I&apos;m majoring in Software Engineering and Economics at Allegheny College. I am fascinated on how code can shape the future and make everyday tasks easier. This is exactly what I want to do, and I am excited to dive deeper into both fields. Being fluent in Italian and English also helps me see things from different perspectives, and I am always looking forward to learning from and working with others who share my passion. I am confident that this path is where I am meant to be, and I cannot wait to take on challenges along the way!.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Swim Instructor</title>
+      <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" title="Swim Instructor" />
+      <published>2024-10-01T00:00:00-07:00</published>
+      <updated>2024-10-01T00:00:00-07:00</updated>
+      <id>http://localhost:4000/jekyll-portfolio/swim-instructor</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll-portfolio/">&lt;h1 id=&quot;expierence&quot;&gt;&lt;em&gt;Expierence&lt;/em&gt;&lt;/h1&gt;
+
+&lt;p&gt;During the summers I am a Red Cross Certified Swimming Instructor. I successfully teach children ages 3-15 how to swim, and teach them about water safety.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Swim Teacher" />
+      
+
+      
+
+      
+        <summary type="html">Expierence</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Food Management</title>
+      <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" title="Food Management" />
+      <published>2014-07-17T00:00:00-07:00</published>
+      <updated>2014-07-17T00:00:00-07:00</updated>
+      <id>http://localhost:4000/jekyll-portfolio/food-management</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll-portfolio/">&lt;h1 id=&quot;expierence&quot;&gt;&lt;em&gt;Expierence&lt;/em&gt;&lt;/h1&gt;
+&lt;p&gt;I am currently a Manager at my family’s resturaunt, Pizza Town. My tasks are to ensure employees, and customers are happy. On the job, you can catch me filling in whenever a cook needs a break, helping with payroll, checking inventory, and ordering inventory. I also help run our social media pages.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Food Managment" />
+      
+
+      
+
+      
+        <summary type="html">Expierence I am currently a Manager at my family’s resturaunt, Pizza Town. My tasks are to ensure employees, and customers are happy. On the job, you can catch me filling in whenever a cook needs a break, helping with payroll, checking inventory, and ordering inventory. I also help run our social media pages.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Lifeguard</title>
+      <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" title="Lifeguard" />
+      <published>2014-07-16T00:00:00-07:00</published>
+      <updated>2014-07-16T00:00:00-07:00</updated>
+      <id>http://localhost:4000/jekyll-portfolio/lifeguard</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll-portfolio/">&lt;h1 id=&quot;expierence&quot;&gt;&lt;em&gt;Expierence&lt;/em&gt;&lt;/h1&gt;
+&lt;p&gt;During the Summer I am a Lifeguard and work at the local community pool to give back to the community that has served me. 
+—&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Lifeguard" />
+      
+
+      
+
+      
+        <summary type="html">Expierence During the Summer I am a Lifeguard and work at the local community pool to give back to the community that has served me. —</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
